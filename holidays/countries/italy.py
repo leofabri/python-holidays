@@ -197,10 +197,11 @@ class Italy(HolidayBase):
                 self[date(year, NOV, 3)] = "San Giusto"
             elif self.prov == "VI":
                 self[date(year, APR, 25)] = "San Marco"
-
+            elif self.prov == "RE":
+                self[date(year, NOV, 24)] = "San Prospero di Reggio"
         # TODO: add missing provinces' holidays:
         # 'Pisa', 'Pordenone', 'Potenza', 'Ravenna',
-        # 'Reggio Emilia', 'Rieti', 'Rimini', 'Rovigo',
+        # 'Rieti', 'Rimini', 'Rovigo',
         # 'Salerno', 'Siracusa', 'Teramo', 'Torino', 'Urbino',
         # 'Venezia'
 
