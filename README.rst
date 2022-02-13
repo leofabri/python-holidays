@@ -150,7 +150,7 @@ Ireland             IE/IRL    None
 Israel              IL/ISR    None
 Italy               IT/ITA    prov = AN, AO, BA, BL, BO, BS, BZ, CB, Cesena, CH, CS, CT,
                               EN, FC, FE, FI, Forlì, FR, GE, GO, IS, KR, LT, MB, MI, MO,
-                              MN, MS, NA, PA, PC, PD, PG, PR, RM, SP, TS, VI
+                              MN, MS, NA, PA, PC, PD, PG, PR, RE, RM, SP, TS, VI
 Jamaica             JM/JAM    None
 Japan               JP/JPN    None
 Kazakhstan          KZ/KAZ    None
